@@ -24,8 +24,6 @@
   <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="eslint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
-  <img alt="render" src="https://img.shields.io/badge/Render-ffc15d?style=for-the-badge&logo=render&logoColor=black" />
-  <img alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   <img alt="vscode" src="https://img.shields.io/badge/Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-d64613?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </div>
