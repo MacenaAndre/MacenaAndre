@@ -28,7 +28,7 @@
   <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-d64613?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </div>
 
-### contato
+## Contact me on: (PT | EN)
 
 <div align="left">
   <a target="_blank" href="https://www.linkedin.com/in/andr%C3%A9-mac%C3%AAna-a64064252/" target="_blank">
