@@ -21,10 +21,12 @@
 ### contato
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/andr%C3%A9-mac%C3%AAna-a64064252/">
+  <a target="_blank" href="https://www.linkedin.com/in/andr%C3%A9-mac%C3%AAna-a64064252/" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a target="_blank" href="mailto:andremacenacosta@gmail.com" target="_blank">
+     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
 
