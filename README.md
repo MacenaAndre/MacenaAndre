@@ -8,7 +8,7 @@
 
 <div>
   <div align="left">
-    <p align="left">
+    <p>
       🛠️ <br>
       📚 I'm currently studying in a fullstack web dev bootcamp at Driven Education <br>
       💾 Computers and technology are a passion from childhood <br>
