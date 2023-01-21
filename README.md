@@ -2,9 +2,9 @@
 
 # Hey, welcome to my profile 👋
 
-<h5 align="left">
+<p align="left">
   I'm <strong>André Macêna</strong>, Software Engineer | Fullstack Developer 
-</h5>
+</p>
 
 <div>
    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=default&hide_border=false&username=MacenaAndre" height="175" alt="languages graph"  />
