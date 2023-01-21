@@ -6,6 +6,7 @@
 
 # About me
 
+<div>
   <p align="left">
     🛠️ <br>
     📚 I'm currently studying in a fullstack web dev bootcamp at Driven Education <br>
@@ -15,6 +16,7 @@
 
   <img align="rigth" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&username=MacenaAndre" height="175" alt="stats graph"  />
   <img algin="right" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=default&hide_border=false&username=MacenaAndre" height="175" alt="languages graph"  />
+</div>
 
 
 ## Technologies that I've worked whit:
