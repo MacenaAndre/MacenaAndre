@@ -15,8 +15,8 @@
     📚 I'm currently studying fullstack web development at Driven Education <br>
     ⚒️ I've been working with <strong>React, Node, Typescript</strong> and <strong>AWS</strong><br>
     🖥️ Fell in love about studying technology about an year ago <br>
-    ⚽ I've worked as a performace analist at Ortec Sports
-    🌟 Truly believe that I've found my calling in creating all kinds of softwares
+    ⚽ I've worked as a performace analist at Ortec Sports <br>
+    🌟 Truly believe that I've found my calling in creating all kinds of softwares <br>
   </p>
 
 ## Technologies that I've worked whit:
