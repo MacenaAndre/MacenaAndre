@@ -1,7 +1,7 @@
-## Hey, welcome to my profile 👋
+# Hey, welcome to my profile 👋
 
 <p align="left">
-  I'm <strong>André Macêna</strong>, Software Engineer | Fullstack Developer 
+  I'm <strong>André Macêna</strong>, 28 years old Software Engineer | Fullstack Developer 
 </p>
 
 <div>
@@ -12,12 +12,12 @@
 ## About me
 
   <p>
-    🛠️ <br>
-    📚 I'm currently studying in a fullstack web dev bootcamp at Driven Education <br>
-    💾 Computers and technology are a passion from childhood <br>
+    📚 I'm currently studying fullstack web development at Driven Education <br>
+    ⚒️ I've been working with <strong>React, Node, Typescript</strong> and <strong>AWS</strong><br>
+    🖥️ Fell in love about studying technology about an year ago <br>
+    ⚽ I've worked as a performace analist at Ortec Sports
+    🌟 Truly believe that I've found my calling in creating all kinds of softwares
   </p>
-
-
 
 ## Technologies that I've worked whit:
 
