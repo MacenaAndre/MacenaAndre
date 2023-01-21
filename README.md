@@ -1,13 +1,15 @@
- <div>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=default&hide_border=false&username=MacenaAndre" height="175" alt="languages graph"  />
-   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&username=MacenaAndre" height="175" alt="stats graph"  />
-</div>
+ 
 
 # Hey, welcome to my profile 👋
 
-<p align="left">
+< h3align="left">
   I'm <strong>André Macêna</strong>, Software Engineer | Fullstack Developer 
-</p>
+</h3>
+
+<div>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=default&hide_border=false&username=MacenaAndre" height="175" alt="languages graph"  />
+   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&username=MacenaAndre" height="175" alt="stats graph"  />
+</div>
 
 # About me
 
