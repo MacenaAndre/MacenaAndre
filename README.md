@@ -2,7 +2,7 @@
 
 # Hey, welcome to my profile 👋
 
-< h3align="left">
+<h3 align="left">
   I'm <strong>André Macêna</strong>, Software Engineer | Fullstack Developer 
 </h3>
 
