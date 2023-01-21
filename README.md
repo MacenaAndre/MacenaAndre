@@ -6,13 +6,11 @@
 
 # About me
 
-<div align="left">
-  <p>
+  <p align="left">
     🛠️ <br>
     📚 I'm currently studying in a fullstack web dev bootcamp at Driven Education <br>
     💾 Computers and technology are a passion from childhood <br>
   </p>
-</div>
 
 
   <img align="rigth" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&username=MacenaAndre" height="175" alt="stats graph"  />
